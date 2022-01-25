@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="google-site-verification" content="C3Cw1EWb5dZs6CVYg2Yis6IqgT1IWhaAJ74aAzZ0knc" />
+	<meta name="msvalidate.01" content="1E7357EE97324A575853DFB6076EFDAD" />
+	<title>The Fairfield Chamber of Commerce</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://fairfieldctchamber.com/xmlrpc.php">
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+	<link href="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/css/bootstrap.min.css" rel="stylesheet">
+	<!--[if lt IE 9]>
+	<script src="https://fairfieldctchamber.com/wp-content/themes/ffchamber/js/html5.js"></script>
+	<![endif]-->
+	<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Fairfield Chamber of Commerce &raquo; Feed" href="https://fairfieldctchamber.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Fairfield Chamber of Commerce &raquo; Comments Feed" href="https://fairfieldctchamber.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Fairfield Chamber of Commerce &raquo; Welcome to the Fairfield Chamber of Commerce Comments Feed" href="https://fairfieldctchamber.com/welcome/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/fairfieldctchamber.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://fairfieldctchamber.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_stylesheet-css'  href='https://fairfieldctchamber.com/wp-content/plugins/captcha/css/style.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://fairfieldctchamber.com/wp-includes/css/dashicons.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css'  href='https://fairfieldctchamber.com/wp-content/plugins/captcha/css/desktop_style.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ctct_form_styles-css'  href='https://fairfieldctchamber.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://fairfieldctchamber.com/wp-content/themes/ffchamber/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='https://fairfieldctchamber.com/wp-content/themes/ffchamber/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fancybox-css'  href='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='fancybox-ie-css'  href='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/css/jquery.fancybox-ie.min.css?ver=1.3.24' type='text/css' media='screen' />
+<style id='fancybox-ie-inline-css' type='text/css'>
+/* IE6 */
+.fancybox-ie6 #fancybox-close{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_close.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-left-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_nav_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-right-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_nav_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-over{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_title_over.png",sizingMethod="scale");zoom:1}
+.fancybox-ie6 #fancybox-title-float-left{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_title_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-main{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_title_main.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-right{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_title_right.png",sizingMethod="scale")}
+#fancybox-loading.fancybox-ie6 div{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_loading.png",sizingMethod="scale")}
+/* IE6, IE7, IE8 */
+.fancybox-ie #fancybox-title-over{background-image:url(https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_title_over.png)}
+.fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_n.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_ne.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_e.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_se.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_s.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_sw.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_w.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/images/fancy_shadow_nw.png",sizingMethod="scale")}
+</style>
+<![endif]-->
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='cptch_front_end_script-js-extra'>
+/* <![CDATA[ */
+var cptch_vars = {"nonce":"1f019bdd1c","ajaxurl":"https:\/\/fairfieldctchamber.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/captcha/js/front_end_script.js?ver=5.5.8' id='cptch_front_end_script-js'></script>
+<link rel="https://api.w.org/" href="https://fairfieldctchamber.com/wp-json/" /><link rel="alternate" type="application/json" href="https://fairfieldctchamber.com/wp-json/wp/v2/pages/21" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fairfieldctchamber.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://fairfieldctchamber.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://fairfieldctchamber.com/" />
+<link rel='shortlink' href='https://fairfieldctchamber.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://fairfieldctchamber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffairfieldctchamber.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://fairfieldctchamber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffairfieldctchamber.com%2F&#038;format=xml" />
+<!-- <meta name="NextGEN" version="3.3.17" /> -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(https://fairfieldctchamber.com/wp-content/themes/ffchamber/images/headers/circle.png) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		</style>
+		<link href="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/custom.css" rel="stylesheet">
+	<link href="https://fairfieldctchamber.com/commerce/mobile.css" rel="stylesheet">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-82174494-1', 'auto');
+ga('send', 'pageview');
+</script>
+<link rel='stylesheet' id='feedzy-rss-feeds-css'  href='https://fairfieldctchamber.com/wp-content/plugins/feedzy-rss-feeds/css/feedzy-rss-feeds.css?ver=3.4.3' type='text/css' media='all' />
+</head>
+<body data-rsssl=1 class="home page-template-default page page-id-21 ctct-ffchamber single-author">
+	<div id="page">
+		<div id="header-container">
+			<div id="header" class="container">
+				<div class="row show-mobile">
+					<center>
+					<div class="col-md-12"><a href="https://fairfieldctchamber.com"><img src="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png" class="logo"></a></div>
+					<div class="col-md-12 h-details">					
+						<h1 class="h-num"><a class="btn btn-primary btn-block" href="tel:2032551011">203.255.1011</a></h1>
+						<a href="http://fairfieldctchamber.chambermaster.com/login/" class="h-login btn-default btn btn-sm">Member Login</a>
+					</div>
+					</center>
+				</div><!-- .row.show-mobile -->
+				<div class="row hide-mobile">
+					<div class="col-md-5">
+						<a href="https://fairfieldctchamber.com"><img class="logo" src="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/logo.png" /></a>
+					</div>
+          <div class="col-md-2"></div>
+          <div class="col-md-5 h-details">
+                <a class="h-login" href="http://fairfieldctchamber.chambermaster.com/login/" >Member Login</a>
+            <h1 class="h-num">203.255.1011</h1>
+            <ul id="h-social">
+              <li><img src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/Buy-Local.png" alt="Buy Local" width="75" height="75" class="social-icon"/></li>
+              &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+              <li><a href="https://www.facebook.com/fairfieldchamber" target="_blank" class="social-icon icon-facebook"></a></li>
+              <li><a href="https://twitter.com/fairfieldchambr" target="_blank" class="social-icon icon-twitter"></a></li>
+              <li><a href="https://www.instagram.com/fairfieldctchamber/?hl=en" target="_blank" class="social-icon icon-instagram"></a></li>
+						</ul>
+					</div>
+				</div><!-- .row.hide-mobile -->
+			</div><!-- #header -->
+		</div><!-- #header-container -->
+		<div id="nav-container">
+			<div class="hide-mobile">
+				<div id="nav" class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="menu-mainmenu-container"><ul id="menu-mainmenu" class="menu"><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-21 current_page_item menu-item-42"><a href="https://fairfieldctchamber.com/" aria-current="page">Home</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="https://fairfieldctchamber.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1129"><a href="https://fairfieldctchamber.com/about-us/welcome-2/">Meet the Chamber</a></li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fairfieldctchamber.com/about-us/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-5337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5337"><a href="https://fairfieldctchamber.com/about-us/leads-group/">Leads Group</a></li>
+	<li id="menu-item-5613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5613"><a href="https://fairfieldctchamber.com/5602-2/">Sign Up for Chamber Emails</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://fairfieldctchamber.com/about-us/testimonials/">Testimonials</a></li>
+	<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://fairfieldctchamber.com/about-us/volunteer-opportunities/">Volunteer Opportunities</a></li>
+</ul>
+</li>
+<li id="menu-item-5340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5340"><a href="https://fairfieldctchamber.com/felo/">FELO</a>
+<ul class="sub-menu">
+	<li id="menu-item-7512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7512"><a href="https://fairfieldctchamber.com/about-us-2/">FELO About Us</a></li>
+	<li id="menu-item-6370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6370"><a href="https://fairfieldctchamber.com/felo-committee/">FELO Committee</a></li>
+	<li id="menu-item-6371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6371"><a href="https://fairfieldctchamber.com/felo-events/">FELO Events</a></li>
+</ul>
+</li>
+<li id="menu-item-5315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5315"><a href="https://fairfieldctchamber.com/become-a-member/">Membership</a>
+<ul class="sub-menu">
+	<li id="menu-item-5316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5316"><a href="https://fairfieldctchamber.com/reasons-to-join-the-chamber/">Reasons to Join the Chamber</a></li>
+	<li id="menu-item-5329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5329"><a href="https://fairfieldctchamber.com/membership-application/">Membership Application</a></li>
+	<li id="menu-item-5320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://fairfieldctchamber.com/member-investment-schedule/">Annual Membership Fee</a></li>
+</ul>
+</li>
+<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="http://fairfieldctchamber.chambermaster.com/list/">Business Directory</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="http://fairfieldctchamber.chambermaster.com/events/calendar/">Events</a></li>
+<li id="menu-item-7180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7180"><a href="https://fairfieldctchamber.com/giftcards/">Gift Cards</a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119"><a href="https://fairfieldctchamber.com/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-6665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6665"><a href="https://fairfieldctchamber.com/community/experience-fairfield-2/">Experience Fairfield</a></li>
+	<li id="menu-item-6976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6976"><a href="https://fairfieldctchamber.com/community/history-of-fairfield/">History of Fairfield</a></li>
+	<li id="menu-item-6644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6644"><a href="https://fairfieldctchamber.com/community/fairfield-town-hall/">Town of Fairfield</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://fairfieldctchamber.com/community/fairfield-demographics-data/">Fairfield Demographics Data</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://fairfieldctchamber.com/community/government-affairs/">Government Affairs</a></li>
+</ul>
+</li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="http://fairfieldctchamber.chambermaster.com/contact?clearcache=1">Contact Us</a></li>
+</ul></div>						</div>
+					</div><!-- .row -->
+				</div><!-- #nav -->
+			</div><!-- .hide-mobile -->
+			<div class="show-mobile">
+				<button type="button" class="" data-toggle="collapse" data-target="#MainMenu"><img src="https://fairfieldctchamber.com/commerce/images/navigation-button.png" /></button>
+				<div id="MainMenu" class="collapse">
+					<div class="menu-mainmenu-container"><ul id="menu-mainmenu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-21 current_page_item menu-item-42"><a href="https://fairfieldctchamber.com/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="https://fairfieldctchamber.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1129"><a href="https://fairfieldctchamber.com/about-us/welcome-2/">Meet the Chamber</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://fairfieldctchamber.com/about-us/board-of-directors/">Board of Directors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5337"><a href="https://fairfieldctchamber.com/about-us/leads-group/">Leads Group</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5613"><a href="https://fairfieldctchamber.com/5602-2/">Sign Up for Chamber Emails</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://fairfieldctchamber.com/about-us/testimonials/">Testimonials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://fairfieldctchamber.com/about-us/volunteer-opportunities/">Volunteer Opportunities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5340"><a href="https://fairfieldctchamber.com/felo/">FELO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7512"><a href="https://fairfieldctchamber.com/about-us-2/">FELO About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6370"><a href="https://fairfieldctchamber.com/felo-committee/">FELO Committee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6371"><a href="https://fairfieldctchamber.com/felo-events/">FELO Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5315"><a href="https://fairfieldctchamber.com/become-a-member/">Membership</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5316"><a href="https://fairfieldctchamber.com/reasons-to-join-the-chamber/">Reasons to Join the Chamber</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5329"><a href="https://fairfieldctchamber.com/membership-application/">Membership Application</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5320"><a href="https://fairfieldctchamber.com/member-investment-schedule/">Annual Membership Fee</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="http://fairfieldctchamber.chambermaster.com/list/">Business Directory</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="http://fairfieldctchamber.chambermaster.com/events/calendar/">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7180"><a href="https://fairfieldctchamber.com/giftcards/">Gift Cards</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-119"><a href="https://fairfieldctchamber.com/community/">Community</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6665"><a href="https://fairfieldctchamber.com/community/experience-fairfield-2/">Experience Fairfield</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6976"><a href="https://fairfieldctchamber.com/community/history-of-fairfield/">History of Fairfield</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6644"><a href="https://fairfieldctchamber.com/community/fairfield-town-hall/">Town of Fairfield</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="https://fairfieldctchamber.com/community/fairfield-demographics-data/">Fairfield Demographics Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://fairfieldctchamber.com/community/government-affairs/">Government Affairs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="http://fairfieldctchamber.chambermaster.com/contact?clearcache=1">Contact Us</a></li>
+</ul></div>				</div>
+			</div><!-- .show-mobile -->
+		</div><!-- #nav-container -->
+					<div id="banner-container">
+				<div id="banner" class="container">
+					<div class="row">
+						<!--<img class="banner" src="" />-->
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators" style="border:0.2px;">
+    <li style = "margin-right: 20px;" data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li style = "margin-right: 20px;" data-target="carousel-example-generic" data-slide-to="1"></li>
+    <li style = "margin-right: 20px;" data-target="carousel-example-generic" data-slide-to="2"></li>
+    <li style = "margin-right: 20px;" data-target="carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="https://fairfieldctchamber.com/wp-content/uploads/2014/12/Home_page4.jpg" alt="">
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+    <div class="item">
+      <img src="https://fairfieldctchamber.com/wp-content/uploads/2014/12/Home_page2.jpg" alt="">
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+    <div class="item">
+      <img src="https://fairfieldctchamber.com/wp-content/uploads/2014/12/Home_page3.jpg" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="https://fairfieldctchamber.com/wp-content/uploads/2014/12/Home_page1.jpg" alt="">
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+   </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+					</div><!-- .row -->
+				</div><!-- #banner -->
+			</div><!-- #banner-container -->
+		 
+		<div id="main" class="site-main">
+	<div id="inner-content-container">
+		<div id="inner-content" class="container">
+			<div class="row">
+				<div class="col-md-12">
+											<h2 class="c-title">Welcome to the Fairfield Chamber of Commerce</h2>
+						
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="fairfieldctchamber.com/giftcards" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2021/06/click-to-buy-egift-card.jpg" alt="" class="wp-image-7576" width="184" height="162" srcset="https://fairfieldctchamber.com/wp-content/uploads/2021/06/click-to-buy-egift-card.jpg 572w, https://fairfieldctchamber.com/wp-content/uploads/2021/06/click-to-buy-egift-card-300x266.jpg 300w" sizes="(max-width: 184px) 100vw, 184px" /></a></figure></div>
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<div style="height:61px" aria-hidden="true" class="wp-block-spacer"></div>
+<hr class="wp-block-separator"/>
+<h4><a href="http://fairfieldctchamber.chambermaster.com/events/calendar/">Upcoming Events</a></h4>
+<div class="feedzy-rss feedzy-8e73fa75b735e343f71a79454ae898d4"><ul>
+            <li  style="padding: 15px 0 25px" class="rss_item">
+                <span class="title"><a href="http://fairfieldctchamber.chambermaster.com/events/details/2nd-annual-dogwood-golf-classic-5563" target="_blank" rel=" noopener">09/26/2022 &#8211; 2nd Annual Dogwood Golf Classic</a></span>
+				<div class="rss_content" style="">
+					
+					
+				</div>
+			</li>
+            
+            <li  style="padding: 15px 0 25px" class="rss_item">
+                <span class="title"><a href="http://fairfieldctchamber.chambermaster.com/events/details/felo-virtual-speed-networking-2-17-2022-5561" target="_blank" rel=" noopener">02/17/2022 &#8211; FELO Virtual Speed Networking 2.17.2022</a></span>
+				<div class="rss_content" style="">
+					
+					
+				</div>
+			</li>
+            
+            <li  style="padding: 15px 0 25px" class="rss_item">
+                <span class="title"><a href="http://fairfieldctchamber.chambermaster.com/events/details/bridgeport-islanders-multi-chamber-networking-event-5562" target="_blank" rel=" noopener">02/15/2022 &#8211; Bridgeport Islanders Multi-Chamber Networking Event</a></span>
+				<div class="rss_content" style="">
+					
+					
+				</div>
+			</li>
+            
+            <li  style="padding: 15px 0 25px" class="rss_item">
+                <span class="title"><a href="http://fairfieldctchamber.chambermaster.com/events/details/economic-outlook-breakfast-2022-5557" target="_blank" rel=" noopener">02/09/2022 &#8211; Economic Outlook Breakfast 2022</a></span>
+				<div class="rss_content" style="">
+					
+					
+				</div>
+			</li>
+            
+            <li  style="padding: 15px 0 25px" class="rss_item">
+                <span class="title"><a href="http://fairfieldctchamber.chambermaster.com/events/details/postponed-felo-ceo-speaker-josh-cohen-of-the-junkluggers-5559" target="_blank" rel=" noopener">01/26/2022 &#8211; Postponed &#8211; FELO CEO Speaker &#8211; Josh Cohen of The Junkluggers</a></span>
+				<div class="rss_content" style="">
+					
+					
+				</div>
+			</li>
+            </ul> </div>
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
+<div style="height:23px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+<div class="wp-block-column">
+<h5 id="mce_22">Welcome letter from the President …</h5>
+<p class="has-text-color" style="color:#9aa5ae">Welcome to the Fairfield Chamber of Commerce!&nbsp; Established in 1946, the Chamber is an essential part of the Fairfield community.&nbsp; It is my pleasure to welcome you to our website, where you can easily find information about the Town of Fairfield as a visitor or resident … and as a business owner, you will find important information and resources to not only sustain your business, but effectively grow your business as well!</p>
+<p class="has-text-color" style="color:#9aa5ae">The Fairfield Chamber of Commerce is a vibrant and dynamic
+non-profit organization working in partnership with the historic Town of
+Fairfield.&nbsp; The Chamber is committed and
+devoted to advocating, promoting, connecting, and educating our local businesses,
+to strengthen our economic base and help build a solid foundation for future
+growth.&nbsp; </p>
+<p class="has-text-color" style="color:#9aa5ae">With a focus on “Buy Local”, we recognize that our local businesses are the cornerstone and economic heart of our community. Together with the Town, our two distinguished Universities, and Fairfield’s many non-profit organizations, we enrich the community as a whole, creating a very special place to Live, Work, and Play. Learn more at <a href="https://experiencefairfieldct.org/"><strong><em>Experience Fairfield</em>.</strong></a></p>
+<p class="has-text-color" style="color:#9aa5ae">The Chamber is an integral part of the Fairfield community and helps foster economic development where all businesses succeed together. Acting as a resource, partner and advocate, the Chamber attracts businesses through strong membership alliances, innovative educational programs and creates opportunities to effectively grow a business. The Chamber is the essential gateway, providing the resources, tools and access for businesses to be successful … and stay in Fairfield.</p>
+<p class="has-text-color" style="color:#9aa5ae">In closing, thank you for visiting our website.&nbsp; Think of the Fairfield Chamber of Commerce as a “Gateway” to information, resources and tools to help grow your business … and explore our beautiful historic Town of Fairfield!</p>
+<p class="has-text-color" style="color:#9aa5ae">Kind Regards,                            Beverly A. Balaz,                   President &amp; CEO</p>
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-media-text alignwide has-media-on-the-right" style="grid-template-columns:auto 73%"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="282" src="https://fairfieldctchamber.com/wp-content/uploads/2020/07/Experience-Fairfield-new-1024x282.png" alt="" class="wp-image-7099" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/07/Experience-Fairfield-new-1024x282.png 1024w, https://fairfieldctchamber.com/wp-content/uploads/2020/07/Experience-Fairfield-new-300x83.png 300w, https://fairfieldctchamber.com/wp-content/uploads/2020/07/Experience-Fairfield-new-768x211.png 768w, https://fairfieldctchamber.com/wp-content/uploads/2020/07/Experience-Fairfield-new.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p style="font-size:-3px"></p>
+</div></div>
+</div>
+</div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="www.fairfieldctchamber.com/giftcards"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-1024x358.jpg" alt="" class="wp-image-7303" width="571" height="200" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-1024x358.jpg 1024w, https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-300x105.jpg 300w, https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-768x269.jpg 768w, https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-1536x538.jpg 1536w, https://fairfieldctchamber.com/wp-content/uploads/2020/10/FCGC-Sherman-Green-Banner-2048x717.jpg 2048w" sizes="(max-width: 571px) 100vw, 571px" /></a></figure></div>
+<div style="height:68px" aria-hidden="true" class="wp-block-spacer"></div>
+<hr class="wp-block-separator"/>
+<div class="wp-block-columns has-3-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image"><a href="https://fairfieldctchamber.com/reasons-to-join-the-chamber/"><img loading="lazy" width="386" height="276" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-1-1.jpg" alt="" class="wp-image-6533" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-1-1.jpg 386w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-1-1-300x215.jpg 300w" sizes="(max-width: 386px) 100vw, 386px" /></a></figure>
+<p class="#00366 has-text-color" style="font-size:24px;color:#003366"><strong>Reasons to Join the Chamber</strong></p>
+<p style="font-size:19px">Member Benefits</p>
+<p>Being active in the local Chamber of Commerce is an effective business strategy. It communicates to consumers that a company uses good practices, is reputable, cares about its customers, and is involved in its community on a variety of levels.</p>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" href="https://fairfieldctchamber.com/reasons-to-join-the-chamber/" style="color:#003366">Learn More</a></div>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image"><a href="https://fairfieldctchamber.com/leads-group/"><img loading="lazy" width="386" height="276" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-2.jpg" alt="" class="wp-image-6534" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-2.jpg 386w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-2-300x215.jpg 300w" sizes="(max-width: 386px) 100vw, 386px" /></a></figure>
+<p class="has-text-color" style="font-size:24px;color:#003366"><strong>Chamber Professional Groups</strong></p>
+<p style="font-size:19px">Referrals, Ideas, Growth</p>
+<p>Join and participate in one of the  Chamber Professional Groups to expand your networking sphere of influence, share ideas, and develop good business practices.</p>
+<p><a href="https://fairfieldctchamber.com/felo/">FELO</a>  &amp;   <a href="https://fairfieldctchamber.com/about-us/leads-group/">Leads Group</a> </p>
+<p><br></p>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image"><a href="http://fairfieldctchamber.chambermaster.com/events/calendar/"><img loading="lazy" width="386" height="276" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-3.jpg" alt="" class="wp-image-6535" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-3.jpg 386w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/home-feat-3-300x215.jpg 300w" sizes="(max-width: 386px) 100vw, 386px" /></a></figure>
+<p class="has-text-color" style="font-size:24px;color:#003366"><strong>Featured Events</strong></p>
+<p style="font-size:19px">Network, Educate, Learn</p>
+<p>Special opportunities to attend social and educational events which enhance business knowledge, provide a better understanding of current topics and help gain a strong perspective on today’s issues. Engaging conversations happen through networking, speaker series and professional development workshops.</p>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" href="http://fairfieldctchamber.chambermaster.com/events/calendar/" style="color:#003366">Events&nbsp; &nbsp; &nbsp;&nbsp;</a></div>
+</div>
+</div>
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-membership.png" alt="" class="wp-image-6669" width="88" height="88" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-membership.png 615w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-membership-150x150.png 150w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-membership-300x300.png 300w" sizes="(max-width: 88px) 100vw, 88px" /><figcaption><a href="https://fairfieldctchamber.com/membership-application/">Membership Application</a></figcaption></figure>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-email.png" alt="" class="wp-image-6671" width="90" height="90" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-email.png 426w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-email-150x150.png 150w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-email-300x300.png 300w" sizes="(max-width: 90px) 100vw, 90px" /><figcaption><a href="https://fairfieldctchamber.com/5602-2/">Join Our Email List</a></figcaption></figure>
+</div>
+</div>
+</div>
+<div class="wp-block-column">
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-video.png" alt="" class="wp-image-6672" width="91" height="91" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-video.png 426w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-video-150x150.png 150w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-video-300x300.png 300w" sizes="(max-width: 91px) 100vw, 91px" /><figcaption><a href="https://youtu.be/nstDSLgSNU8">Town of Fairfield Video</a></figcaption></figure>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-direcory.png" alt="" class="wp-image-6673" width="94" height="94" srcset="https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-direcory.png 426w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-direcory-150x150.png 150w, https://fairfieldctchamber.com/wp-content/uploads/2020/05/circle-direcory-300x300.png 300w" sizes="(max-width: 94px) 100vw, 94px" /><figcaption><a rel="noreferrer noopener" href="https://chamberpg.com/fairfield" data-type="URL" data-id="https://chamberpg.com/fairfield" target="_blank">E-Visitors Guide &amp; Business Directory</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+<div style="height:59px" aria-hidden="true" class="wp-block-spacer"></div>
+<p></p>
+									</div>
+			</div><!-- .row -->
+		</div><!-- #inner-content -->
+	</div><!-- #inner-content-container -->
+		</div><!-- #main -->
+				<div id="ads-container">
+			<div class="container" id="ads">
+				<div class="row">
+					<div class="col-md-3 col-xs-6"><a class="ad-img"  href="http://online.pubhtml5.com/vuff/ljtj/" target="_blank"><img src="https://fairfieldctchamber.com/wp-content/uploads/2019/08/image-for-website-e1566571974904.jpg" alt="Ads 01" width="300" height="250" class="aligncenter size-full wp-image-1016" /></a></div>
+					<div class="col-md-3 col-xs-6"><a class="ad-img" href="https://www.peoples.com/portal/site/peoples/" target="_blank"><img src="https://fairfieldctchamber.com/wp-content/uploads/2015/09/Peoples-Bank-Ad-CT-300x2501.jpg" alt="Ads 02" width="300" height="250" class="aligncenter size-full wp-image-1015" /></a></div>
+					<div class="col-md-3 col-xs-6"><a class="ad-img" href="http://www.acbi-ins.com/" target="_blank"><img src="https://fairfieldctchamber.com/wp-content/uploads/2020/01/ACBI-2020.jpg" alt="Ads 03" width="300" height="250" class="aligncenter size-full wp-image-1022" /></a></div>
+					<div class="col-md-3 col-xs-6"><a class="ad-img" href="https://mjpassociates.com/" target="_blank"><img src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/MJP-2020.jpg" alt="ads-frog" width="300" height="250" class="aligncenter size-full wp-image-1021"/></a></div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="footcol-container" class="hide-mobile">
+			<div id="footcol" class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<h4 class="footcol-title">Fairfield Chamber of Commerce</h4>
+						<div class="fc-address">200 Mill Plain Road<br />Fairfield, CT 06824</div>
+						<div class="fc-contact">Phone: <b>203.255.1011</b><br />Fax: <b>203.256.9990</b></div>
+            <a href="mailto:info@fairfieldctchamber.com">info@fairfieldctchamber.com</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+				<div class="row">
+					<div class="col-md-6">
+						<img src="https://fairfieldctchamber.com/wp-content/uploads/2020/04/Chamber-logo-e1587583665235.png" alt="Chamber_Flower" width="135" height="135" class="aligncenter size-thumbnail wp-image-551" />
+					</div>
+          <div class="col-md-6">
+						<img src="https://fairfieldctchamber.com/wp-content/uploads/2020/05/I-Love-Fairfield-Button-circle-image.jpg" alt="I Love Fairfield" width="125" height="125" class="aligncenter wp-image-546" style="padding-top:5px;"/>
+					</div>
+           <div class="col-md-6">
+						</div>
+        </div>
+      </div>
+   </div>
+        
+		<div class="container show-mobile">
+			<div class="col-md-12" style="padding-top:10px; padding-bottom:10px;">
+				<center>
+					<ul id="h-social">
+						<li><a class="social-icon" target="_blank" href="#"><img src="https://fairfieldctchamber.com/commerce/images/icon-twitter.png" /></a></li>
+						<li><a class="social-icon" target="_blank" href="https://www.facebook.com/fairfieldchamber"><img src="https://fairfieldctchamber.com/commerce/images/icon-facebook.png" /></a></li>
+						<li><a class="social-icon" target="_blank" href="#"><img src="https://fairfieldctchamber.com/commerce/images/icon-googleplus.png" /></a></li>
+						<li><a class="social-icon" target="_blank" href="#"><img src="https://fairfieldctchamber.com/commerce/images/icon-youtube.png" /></a></li>
+					</ul>
+				</center>
+			</div>
+		</div><!-- .show-mobile -->
+		<div id="footer-container">
+			<div id="footer" class="container">
+				<div class="row">
+					<div class="col-md-12">
+						Copyright &copy; 2022 &bull; The Fairfield Chamber of Commerce &bull; All Rights Reserved &bull; Website Design, Development & SEO Consulting Services  <a href="http://www.gizoommarketing.com/" target="_blank"><img style="vertical-align:middle;" src="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/f-gizoom.png" alt="Gizoom"></a> and <a href="http://capitolphotointeractive.com/" target="_blank"><img style="vertical-align:middle;" src="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/images/f-capitol.png" alt="Capitol Photo"></a></br><a href="https://fairfieldctchamber.com/privacy-policy" class="notebook" target="_blank">Privacy Policy</a> and <a href="https://fairfieldctchamber.com/terms-and-conditions/">Terms and Conditions</a>
+					</div>
+				</div><!-- .row -->
+			</div><!-- #footer -->
+		</div><!-- #footer-container -->
+	</div><!-- #page -->
+	<!-- ngg_resource_manager_marker --><script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=1.8.8' id='recaptcha-v2-js'></script>
+<script async="async" defer type='text/javascript' src='//www.google.com/recaptcha/api.js?onload=renderReCaptcha&#038;render=explicit&#038;ver=1.8.8' id='recaptcha-lib-v2-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.8.8' id='ctct_frontend_forms-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/themes/ffchamber/js/functions.js?ver=2014-03-18' id='twentythirteen-script-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24' id='jquery-fancybox-js'></script>
+<script type='text/javascript' id='jquery-fancybox-js-after'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':true,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.1' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-content/plugins/easy-fancybox/js/jquery.metadata.min.js?ver=2.22.1' id='jquery-metadata-js'></script>
+<script type='text/javascript' src='https://fairfieldctchamber.com/wp-includes/js/wp-embed.min.js?ver=5.5.8' id='wp-embed-js'></script>
+	<script>
+		// jQuery(document).ready(function(){
+		// 	jQuery('.menu-mainmenu-container ul:first-child').clone().appendTo('.rwd-top-nav');	
+		// 	jQuery('#rwd-top-nav-btn').click(function(event){
+		// 		//event.preventDefault();
+		// 		jQuery('.rwd-top-nav').slideToggle();
+		// 	});
+		// 	jQuery('#rwd-top-nav-btn').click(function(){
+		// 		jQuery('.rwd-top-nav').toggleClass('slide');
+		// 		// .classShowHide{}
+		// 	});
+		// });
+	</script>
+	<script src="https://fairfieldctchamber.com/wp-content/themes/ffchamber-child/js/bootstrap.min.js"></script>
+</body>
+</html>
