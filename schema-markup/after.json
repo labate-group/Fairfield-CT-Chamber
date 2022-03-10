@@ -1,3 +1,4 @@
+<script defer type="application/ld+json">
 {
 	"@context": "https://schema.org",
 	"@type": "Organization",
@@ -33,10 +34,10 @@
 			"url": "https://fairfieldctchamber.webflow.io/about"
 		}
 	],
-	"hasOfferCatalog": {
+	"makesOffer": {
 		"@type": "Offer",
 		"@id": "/#offer",
-		"url": ""
+		"url": "https://fairfieldctchamber.webflow.io/membership/#offer"
 	},
 	"numberOfEmployees": "",
 	"logo": {
@@ -62,3 +63,4 @@
                 ""
         ],
 }
+</script>
