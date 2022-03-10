@@ -7,11 +7,22 @@
 	"name": "Fairfield CT Chamber of Commerce",
 	"legalName": "",
 	"slogan": "",
+	"about": {
+		"@type": "AboutPage",
+		"@id": "https://fairfieldctchamber.webflow.io/#aboutpage",
+		"url": "https://fairfieldctchamber.webflow.io"
+	},
 	"founder": {
 		"@type": "Person",
 		"@id": "/#person",
 		"url": "",
 		"name": ""
+	},
+	"contactPoint": {
+		"@type": "ContactPoint",
+		"@id": "https://fairfieldctchamber.webflow.io/#contactpoint",
+		"telephone": "203-255-1011",
+		"email": "beverly@fairfieldctchamber.com"
 	},
 	"foundingDate": "",
 	"openingHours": "",
@@ -37,7 +48,8 @@
 	"makesOffer": {
 		"@type": "Offer",
 		"@id": "/#offer",
-		"url": "https://fairfieldctchamber.webflow.io/membership/#offer"
+		"name": "Membership",
+		"url": "#https://fairfieldctchamber.webflow.io/membership/apply/"
 	},
 	"numberOfEmployees": "",
 	"logo": {
