@@ -1,0 +1,64 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"@id": "https://fairfieldctchamber.webflow.io/#organization",
+	"url": "https://fairfieldctchamber.webflow.io",
+	"name": "Fairfield CT Chamber of Commerce",
+	"legalName": "",
+	"slogan": "",
+	"founder": {
+		"@type": "Person",
+		"@id": "/#person",
+		"url": "",
+		"name": ""
+	},
+	"foundingDate": "",
+	"openingHours": "",
+	"knowsLanguage": "us-EN",
+	"inLanguage": "",
+	"about": {
+		"@type": "AboutPage",
+		"@id": "https://fairfieldctchamber.webflow.io/about/#aboutpage",
+		"url": "https://fairfieldctchamber.webflow.io/about"
+	},
+	"mainEntityOfPage": [
+		{
+			"@type": "WebSite",
+			"@id": "https://fairfieldctchamber.webflow.io/#website",
+			"url": "https://fairfieldctchamber.webflow.io"
+		},
+		{
+			"@type": "AboutPage",
+			"@id": "https://fairfieldctchamber.webflow.io/about/#aboutpage",
+			"url": "https://fairfieldctchamber.webflow.io/about"
+		}
+	],
+	"hasOfferCatalog": {
+		"@type": "Offer",
+		"@id": "/#offer",
+		"url": ""
+	},
+	"numberOfEmployees": "",
+	"logo": {
+                "@type": "ImageObject",
+                "@id": "https://fairfieldctchamber.webflow.io/logo",
+                "url": "https://uploads-ssl.webflow.com/62296a138ffb26201d00b2d5/62296aa93c9fc29d18c48cdb_logo.png",
+                "contentUrl": "https://uploads-ssl.webflow.com/62296a138ffb26201d00b2d5/62296aa93c9fc29d18c48cdb_logo.png"
+        },
+	"aggregateRating": "",
+	"address": {
+                "@type": "PostalAddress",
+                "@id": "https://fairfieldctchamber.webflow.io/postaladdress",                
+                "text": "200 Mill Plain Road, Fairfield, CT 06824"
+        },
+	"geo": {
+		"@type": "@GeoCoordinates",
+		"@id": "/#geocoordinates",
+		"latitude": "",
+		"longitude": ""
+	},
+	"sameAs": [
+                "",
+                ""
+        ],
+}
